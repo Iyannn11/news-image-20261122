@@ -1,21 +1,14 @@
-import { copyFileSync, existsSync, mkdirSync, statSync } from "node:fs";
+import { copyFileSync, statSync } from "node:fs";
 import { join } from "node:path";
 
-const botDir = process.env.MAKEFUN_BOT_DIR;
-if (!botDir) {
-  throw new Error("MAKEFUN_BOT_DIR is not set");
-}
+const botDir = process.env.MAKEFUN_BOT_DIR ?? process.cwd();
 const src = join(botDir, "entry.png");
-const outDir = "/output";
-if (!existsSync(src)) {
-  throw new Error("entry.png not found in " + botDir);
+const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
+const dst = join(outDir, "entry.png");
+copyFileSync(src, dst);
+const bytes = statSync(dst).size;
+const srcBytes = statSync(src).size;
+if (bytes !== srcBytes) {
+  throw new Error(`copy mismatch: ${bytes} != ${srcBytes}`);
 }
-mkdirSync(outDir, { recursive: true });
-copyFileSync(src, join(outDir, "entry.png"));
-// Verify the copy landed byte-identical before reporting success.
-const srcSize = statSync(src).size;
-const dstSize = statSync(join(outDir, "entry.png")).size;
-if (srcSize !== dstSize) {
-  throw new Error("copy size mismatch: " + srcSize + " vs " + dstSize);
-}
-console.log("copied entry.png to /output/entry.png (" + dstSize + " bytes, verified)");
+console.log(`copied entry.png to ${dst} (${bytes} bytes, verified)`);
