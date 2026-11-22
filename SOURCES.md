@@ -1,11 +1,12 @@
-# SOURCES — The World in One Day, Sunday 22 November 2026
+# SOURCES — The World in One Day, Sunday 22 November 2026 (Round 4)
 
-50 verified stories, 7 regions. Every story below happened, or was first
+35 verified stories, 7 regions. Every story below happened, or was first
 reported, on **Sunday 22 November 2026** (in any time zone — the competition's
-date rule). URLs are given where the source page was opened directly during
-verification; otherwise the outlet and its dated 22 Nov coverage are cited.
-Two items are the day's scheduled events, framed as such on the image:
-the Pope's noon Angelus and the SpaceX NROL-136 launch (due 12:16 UTC).
+date rule). Two items are the day's scheduled events, framed as such on the
+image: the Pope's noon Angelus and the SpaceX NROL-136 launch (due 12:16 UTC).
+The Top 1's two date errors are NOT counted as 22 Nov stories: the Wall
+Street correction was Friday 20 Nov, and the Texas execution was Thursday
+19 Nov.
 
 ## Front page — 3 big cards
 
@@ -22,6 +23,7 @@ the Pope's noon Angelus and the SpaceX NROL-136 launch (due 12:16 UTC).
    a family of four dies in the Lviv region.
    Source: Ukrinform, 22 Nov 2026 —
    https://www.ukrinform.net/rubric-ato/4058763-russia-attacks-ukraine-with-550-weapons-overnight-five-killed-10-injured.html
+   (distinct from the 19→20 Nov attack and the 20 Nov Lviv strike).
 
 ## Small cards (4–13)
 
@@ -30,8 +32,7 @@ the Pope's noon Angelus and the SpaceX NROL-136 launch (due 12:16 UTC).
    NZ 33/1 at tea on day 4.
    Source: BBC Sport, 22 Nov 2026 —
    https://www.bbc.com/sport/cricket/articles/cwyv5d3gqn7o
-   and Reuters, 22 Nov 2026 —
-   https://www.reuters.com/sports/cricket/india-rack-up-record-total-new-zealand-2026-11-22/
+   and Reuters, 22 Nov 2026.
 5. **INDONESIA FACTORY FIRE (ASIA, Cikande)** — 3 dead, 36 missing after a
    fire at the Fonusa Agung Mulia candy factory in Cikande, Serang.
    Source: Reuters, 22 Nov 2026 —
@@ -67,123 +68,88 @@ the Pope's noon Angelus and the SpaceX NROL-136 launch (due 12:16 UTC).
     series. Match wrapped up Saturday 22 Nov Perth time.
     Source: BBC Sport, 22 Nov 2026 —
     https://www.bbc.com/sport/cricket/articles/crrjvpl6x4xo
-    and https://www.bbc.com/sport/cricket/articles/cy9n8ddxx4yo
 
-## Also on Sunday (14–50)
+## Also on Sunday (14–35)
 
 14. **JURA (EUROPE)** — Orange flood alert: 70–90mm rain expected to
-    midnight. Source: MeteoSwiss, 22 Nov 2026.
+    midnight. Source: Meteo-France, 22 Nov 2026.
 15. **UK–EU ROW (EUROPE)** — Tories and universities attack Burnham's
     Brussels reset deal; Foreign Secretary Ed Miliband says it takes
     effect in 2028 regardless of the tuition-fee row.
     Source: BBC News, Sunday 22 Nov 2026.
-16. **PETER FLACK, 85 (EUROPE)** — Spitting Image co-creator dies at home
-    in Cornwall. Source: BBC News, 22 Nov 2026.
-17. **STARLINK FIRE (EUROPE)** — Two arrested in Germany over the Starlink
+16. **STARLINK FIRE (EUROPE)** — Two arrested in Germany over the Starlink
     station fire in Poland. Source: Reuters / AP, 22 Nov 2026.
-18. **MERZ (EUROPE)** — Chancellor Merz announces an electricity tax cut
-    for households. Source: Reuters, 22 Nov 2026.
-19. **IMF (EUROPE)** — IMF lifts Germany's growth forecast to 1.3%.
-    Source: IMF / Reuters, 22 Nov 2026.
-20. **MYANMAR (ASIA)** — M4.1 earthquake, 02:35 IST, depth 95km.
-    Source: EMSC, 22 Nov 2026.
-21. **SHENZHOU XXIV (ASIA)** — Launch site ready after the final
+17. **MYANMAR (ASIA)** — M4.1 earthquake, 02:35 IST, depth 95km.
+    Source: National Centre for Seismology / EMSC, 22 Nov 2026.
+18. **SHENZHOU XXIV (ASIA)** — Launch site ready after the final
     rehearsal; crewed flight due 25 Nov 00:18 UTC, first Chinese-foreign
     crew. Source: Xinhua / China Daily Asia, published 12:00, 22 Nov 2026.
-22. **SUMATRA QUAKE (ASIA)** — M4.2 off West Sumatra early Sunday, felt
+19. **SUMATRA QUAKE (ASIA)** — M4.2 off West Sumatra early Sunday, felt
     in Padang; no tsunami threat. Source: ANTARA, 22 Nov 2026.
-23. **MARCOS (ASIA)** — President Marcos on Trump's "buy 100% of food and
+20. **MARCOS (ASIA)** — President Marcos on Trump's "buy 100% of food and
     energy from the US" demand: "details being fixed"; warns against
     excessive dependence. Source: Manila Standard (front page), Sun 22 Nov 2026.
-24. **MANIBELA (ASIA)** — Transport group Manibela announces a two-day
-    strike, 23–24 Nov. Source: GMA News, 22 Nov 2026 (10:30).
-25. **PAKISTAN — RANGEL (ASIA)** — Portuguese FM Paulo Rangel begins a
-    two-day visit. Source: Dawn / APP, 22 Nov 2026.
-26. **PAKISTAN — DAR (ASIA)** — FM Ishaq Dar urges a new regional security
-    framework, cites US–Iran mediation.
-    Source: Dawn / The Express Tribune, 22 Nov 2026.
-27. **THAILAND (ASIA)** — Bangkok–U-Tapao high-speed rail link faces
-    redesign after funding failure. Source: Bangkok Post, 22 Nov 2026 (08:33).
-28. **DELHI AIR (ASIA)** — AQI 295, "very unhealthy"; PM2.5 hazardous.
+21. **DELHI AIR (ASIA)** — AQI 295, "very unhealthy"; PM2.5 hazardous.
     Source: weather.com (live), Sun 22 Nov 2026.
-29. **RAMAYANA (ASIA)** — Film nears ₹914 Cr on Day 18 (₹19.69 Cr early,
-    total ₹913.50 Cr). Source: boxofficeindia24 (live), Sun 22 Nov 2026.
-30. **IRGC CLAIM (MIDDLE EAST)** — IRGC claims strikes on two US Patriot
+22. **IRGC CLAIM (MIDDLE EAST)** — IRGC claims strikes on two US Patriot
     radars in Bahrain. Framed on the image as a claim, not a confirmed fact.
-    Source: IRGC-affiliated media / Reuters, 22 Nov 2026.
-31. **EISENKOT (MIDDLE EAST)** — Coalition talks between Eisenkot and
+    Source: IRGC-affiliated media / Reuters, 22 Nov 2026. Distinct from the
+    Iran strikes on Kuwait/Bahrain of Wed 19 Nov.
+23. **EISENKOT (MIDDLE EAST)** — Coalition talks between Eisenkot and
     Likud open Sunday. Source: Times of Israel / Haaretz, 22 Nov 2026.
-32. **PORSCHE (MIDDLE EAST)** — Icons of Porsche opens in Dubai.
-    Source: Gulf News, 22 Nov 2026.
-33. **AOUN (MIDDLE EAST)** — On Independence Day, President Aoun demands
+24. **PORSCHE (MIDDLE EAST)** — Icons of Porsche opens in Dubai.
+    Source: Gulf News / WAM, 22 Nov 2026.
+25. **AOUN (MIDDLE EAST)** — On Independence Day, President Aoun demands
     Israeli withdrawal and an end to foreign influence.
     Source: Middle East Eye, 02:38 UTC, 22 Nov 2026.
-34. **TURKEY (MIDDLE EAST)** — Israel blocking thousands of container
+26. **TURKEY (MIDDLE EAST)** — Israel blocking thousands of container
     homes for Gaza, Ankara says. Source: Al-Monitor, 01:30 UTC, 22 Nov 2026.
-35. **S. AFRICA (AFRICA)** — SAWS severe weather warning: Yellow Level 2
+27. **S. AFRICA (AFRICA)** — SAWS severe weather warning: Yellow Level 2
     severe thunderstorms + fire danger, issued 05:35 Sunday 22 Nov.
     Source: South African Weather Service, 22 Nov 2026.
-36. **KHAYELITSHA (AFRICA)** — Shooting: 4 dead, 6 injured.
+28. **KHAYELITSHA (AFRICA)** — Shooting: 4 dead, 6 injured.
     Source: arrivealive.co.za, 22 Nov 2026.
-37. **BENIN (AFRICA)** — Benin asks France for 35 more royal treasures.
+29. **BENIN (AFRICA)** — Benin asks France for 35 more royal treasures.
     Source: EIN Presswire, published 00:28 GMT, 22 Nov 2026.
-38. **SPACEX (AMERICAS)** — NROL-136 due 12:16 UTC from Vandenberg.
+30. **SPACEX (AMERICAS)** — NROL-136 due 12:16 UTC from Vandenberg.
     (Scheduled Sunday launch.) Source: SpaceX / NASASpaceflight, 22 Nov 2026.
-39. **F1 ACADEMY (AMERICAS)** — Alisha Palmowski wins the Las Vegas
+31. **F1 ACADEMY (AMERICAS)** — Alisha Palmowski wins the Las Vegas
     feature race, her 6th win of the season; Campos take the Teams' title.
     Race finished ~01:14 UTC, 22 Nov. Source: Formula 1 / F1 Academy, 22 Nov 2026.
-40. **WEMBANYAMA (AMERICAS)** — 50 pts, 19 reb as the Spurs beat the
+32. **WEMBANYAMA (AMERICAS)** — 50 pts, 19 reb as the Spurs beat the
     Pelicans 114–91 (Saturday night US = Sunday UTC).
     Source: NBA / ESPN, 22 Nov 2026.
-41. **KNICKS (AMERICAS)** — Knicks 97–96 Blazers on a Mikal Bridges
+33. **KNICKS (AMERICAS)** — Knicks 97–96 Blazers on a Mikal Bridges
     buzzer-beater (Saturday night US = Sunday UTC).
     Source: NBA / ESPN, 22 Nov 2026.
-42. **MLS (AMERICAS)** — Columbus beat Messi's Inter Miami 3–0 in
+34. **MLS (AMERICAS)** — Columbus beat Messi's Inter Miami 3–0 in
     playoff Game 1 (Saturday night US = Sunday UTC).
     Source: AP, 21 Nov 18:15 PST (= 22 Nov 02:15 UTC).
-43. **FLORIDA (AMERICAS)** — St. Johns River at a record 18.8 ft near
-    Cocoa (1953 record 17.55 ft); Lake Harney crest ~13 ft due Sunday
-    afternoon, above the 2022 record 12.67 ft.
-    Source: National Weather Service + weatherboy, 22 Nov 2026.
-44. **MACARTHUR (OCEANIA)** — Macarthur beat Wellington 2–1, the
+35. **MACARTHUR (OCEANIA)** — Macarthur beat Wellington 2–1, the
     leaders' first defeat (Stamatelopoulos 6', Bosnjak 19', Bidois 88').
     Source: AAP, 22 Nov 2026.
-45. **AUKUS (OCEANIA)** — Defence Minister Marles hits back at the US
-    budget office over its AUKUS submarine report.
-    Source: Reuters (Sydney), 22 Nov 2026.
-46. **WHANGANUI (OCEANIA)** — Hillclimb driver dies in a crash.
-    Source: NZ Herald, 22 Nov 2026 (04:16 pm NZ).
-47. **RUATŌRIA (OCEANIA)** — House slips off its foundations; 1 dead,
-    4 injured. Source: NZ Herald / RNZ, 22 Nov 2026.
-48. **FARMLANDS (OCEANIA)** — Chair Hewett quits after shareholder
-    backlash. Source: Farmers Weekly, 2026-11-22T15:24:59+13:00.
-49. **GAPES (OCEANIA)** — Rotorua's Hannah Gapes wins the NCAA
-    cross-country title in the US. Source: NZ Herald, 22 Nov 2026 (01:34 pm).
-50. **GRIGG (OCEANIA)** — MP Nicola Grigg on medical leave after a cancer
-    diagnosis. Source: NZ Herald, 22 Nov 2026 (02:41 pm).
 
 ## Region counts
 
-Europe 9 · Asia 15 · Middle East 6 · Africa 3 · Americas 7 · Oceania 8 ·
-Global 2 = **50 stories**.
-
-## "Later today" preview (NOT counted as stories)
-
-Liverpool v Man Utd 16:30 GMT, Hull v Brighton 14:00 GMT, SpaceX NROL-136
-12:16 UTC, NFL Vikings at 49ers (Mexico City) — all still to come when
-this image was drawn; listed only as a preview strip on the map band.
+Europe 6 · Asia 10 · Middle East 6 · Africa 3 · Americas 6 · Oceania 2 ·
+Global 2 = **35 stories**.
 
 ## DATE CHECK — stories checked and REJECTED (not 22 Nov)
 
 These were considered and rejected because they happened or were first
 reported on 21 Nov or earlier:
 
+- Wall Street correction — Friday 20 Nov (a Top-1 error: shown as 22 Nov).
+- Texas execution — Thursday 19 Nov (a Top-1 error: shown as 22 Nov).
+- EU–Indonesia trade deal signed in Brussels — Sat 21 Nov.
+- El Chapo Isidro captured Friday night, announced Sat 21 Nov.
+- Peru quake 6.7, USGS final — 21 Nov.
+- Gaza aid-vehicle strike, 3 killed — Sat 21 Nov.
 - Sudan gold-mine drone strike — Wed 18 Nov.
 - Nigeria boat capsize — Fri 20 Nov, toll Sat 21 Nov.
 - BepiColombo Mercury orbit insertion — 21 Nov 18:24 UTC.
 - Manipur toxic alcohol deaths — 18–20 Nov, confirmed Fri 20 Nov.
 - Iran F-16 missile claim — Fri 20 Nov; CENTCOM denial Sat 21 Nov.
-- Mexico 'El Chapo Isidro' capture — Fri 20 Nov raid, announced Sat 21 Nov.
 - Poland Kh-101 missile crash — Fri 20 Nov, confirmed Sat 21 Nov.
 - Strasbourg cost-of-living protests — Sat 21 Nov, 144 arrests.
 - SoftBank $1T SK Hynix buyout — reported Nov 20, shelved Nov 21.
@@ -193,9 +159,7 @@ reported on 21 Nov or earlier:
 - FBI NCIC hack — first reported Fri 20 Nov; AP confirmed Sat 21 Nov.
 - China–Singapore FTA talks — Sat 21 Nov.
 - DP World Tour Championship final round — Sun 15 Nov, not 22 Nov.
-- AFCON qualifiers Côte d'Ivoire v Gambia — Thu 12 Nov and Tue 17 Nov.
 - Premier League Saturday results — Sat 21 Nov UK.
-- NFL Week 12 Sunday games — not yet played at build time.
 - Riemann hypothesis / Claude proof — claim Fri 20 Nov; verification Sat 21 Nov.
 - California train heist charges — Thu 19 Nov.
 - Brazil Tupanciretã storm — Sat 21 Nov cleanup; 4 dead, 162 injured.
@@ -205,20 +169,14 @@ reported on 21 Nov or earlier:
 - Japan nuclear submarine petition — submitted Fri 20 Nov.
 - Nikkei fell 5.06% — Fri 20 Nov.
 - India–Japan 2+2 — Thu 19 Nov.
-- Tom Skerritt died — Oct 21, 2026 (stale listing).
-- Finland Onkalo licence — Oct 22, 2026 (stale listing).
-- Flydubai co-pilot incident — Sep 30, 2026; warning Thu Nov 19.
-- Houthi Riyadh airport claims — Nov 4, 8, 15, 19; none on 22 Nov.
 - France protests, 6th weekend — Sat 21 Nov.
 - France beat Argentina 45–17 (rugby) — Sat 21 Nov.
 - PSG 3–2 Nice — Sat 21 Nov.
 - Michel Zecler verdict — Fri Nov 20, 10pm.
 - Canada NATO Innovation Fund — announced Sat 21 Nov.
 - Navdeep Bains, Ontario Liberal leader — vote Sat 21 Nov.
-- Toronto Project Swords — Nov 21.
 - Ubisoft cuts 166 jobs — ~Nov 19.
 - TSX correction — Fri Nov 20.
-- Canada–UAE CEPA — signed Oct 28.
 - Davis Cup Final 8 — Nov 24–29, not Nov 22.
 - Long March 8A SatNet launch — Nov 20.
 - Mastung operation, 15 killed — late Sat night 21 Nov.
@@ -227,23 +185,24 @@ reported on 21 Nov or earlier:
 - Fidan US defence disputes — Sat 21 Nov.
 - Turkey Somali Embassy approval — Sat 21 Nov.
 - Ankara crash, 15 injured — 21 Nov.
-- Italy "Godfather" funeral — 2015 (stale repost).
 - Italy nationwide strike — Fri 20 Nov.
 - De Gennaro found dead — Sat 21 Nov.
 - Gen Z protests, Europe — Fri 20 Nov day of action.
 - Thailand rare-earth rules — Sat 21 Nov.
 - Thailand nightclub raid — late Fri 20 Nov.
 - Hunger Games opening $120M — Saturday estimate, Nov 21.
-- Gaza aid-vehicle strike, 3 killed — Sat 21 Nov.
 - Germany intelligence reform — Bundestag approved Nov 13.
 - All Blacks v England — Sat 21 Nov.
 - NZ election — Nov 7.
 - Indonesia Google/YouTube — Fri Nov 20.
-- EU–Indonesia trade deal — signed Nov 21.
 - Philippines ASEAN protests/arrests — Nov 18–19.
 - Philippines stocks plunge — Fri Nov 20.
-- Milan Malpensa 4-hour ATC stoppage — minor scheduled item from a Nov 20
-  article; dropped to land exactly on 50 stories.
+- Houthi Riyadh airport claims — Nov 4, 8, 15, 19; none on 22 Nov.
+- Iran strikes on Kuwait & Bahrain — Wednesday 19 Nov.
+- Banda Sea quake 6.8 — Friday 21 Nov.
+- ICMR technology-transfer milestone — 18 Nov.
+- UNSC Sudan consultations — Friday 20 Nov.
+- Air India Jeddah suspension extension — Friday 20 Nov.
 
 ## Source-reliability notes
 

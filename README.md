@@ -1,28 +1,33 @@
-[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
-[![rank](https://make.fun/badge/news-image-20261122/Iyannn11/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
-[![reward](https://make.fun/badge/news-image-20261122/Iyannn11/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+# Sunday 22 November 2026 — The World in One Day (35 Stories)
 
-# The World in One Day — Sunday 22 November 2026
+[![make.fun](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/Iyannn11/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/Iyannn11/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122)
 
-**50 verified stories · 7 regions · every one dated Sunday 22 November 2026.**
+One image that sums up the world's news of **Sunday 22 November 2026** —
+35 verified stories across 7 regions, in a Top-1-style broadsheet:
+COP31 overtime in Antalya, Verstappen winning the Las Vegas Grand Prix,
+and 550 munitions fired at Ukraine overnight, plus a 6-fact strip, a world
+map of where it happened, and 22 more stories.
 
-A single-image broadsheet summing up the world news of Sunday 22 November 2026: COP31 in overtime in Antalya, Russia's overnight attack on Ukraine, Verstappen winning the Las Vegas Grand Prix, India piling up a record Test total in New Zealand, a factory fire in Indonesia, floods in Gaza, and 44 more stories from every region — plus a world map showing where each one happened.
+Built for the make.fun bounty
+[Sum up 22 November's world news in one image](https://make.fun/bounty/news-image-20261122).
 
-Built for the [make.fun bounty — Sum up 22 November's world news in one image](https://make.fun/bounty/news-image-20261122).
+## How it works
 
-## How it was made
-
-- `stories.json` — the 50 verified stories (headline, region, map location) with sources in `SOURCES.md`.
-- `render.py` — draws `entry.png` (1024×1024, deterministic) from `stories.json` with PIL.
-- `main.ts` — copies `entry.png` to `/output/entry.png`.
-
-## Reproduce
+`render.py` draws `entry.png` (1024×1024, deterministic — rendering twice
+produces identical bytes) from the verified story data in `stories.json`.
+`main.ts` (Node 22) copies `entry.png` to the output directory.
 
 ```sh
-python3 render.py        # writes entry.png (deterministic — same sha256 every run)
-npx tsx main.ts          # writes /output/entry.png
+python3 render.py        # draws entry.png
+mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts   # writes out/entry.png
 ```
 
-## Date check
+## Files
 
-Every story was checked against its source: it happened, or was first reported, on Sunday 22 November 2026. Stories dated 21 November or earlier were rejected — the full rejection list is in `SOURCES.md`.
+- `render.py` — the broadsheet renderer (PIL, system fonts only)
+- `stories.json` — all 35 verified stories + map locations + region counts
+- `SOURCES.md` — every story's date/source, and the items rejected as not-22-Nov
+- `entry.png` — the rendered image
+- `main.ts` — entrypoint: copies `entry.png` to the output directory
