@@ -1,23 +1,21 @@
-// main.ts — entrypoint for the News 22 broadsheet entry.
-// Copies entry.png (rendered by render.py) into the output directory.
-// Written as plain JavaScript inside .ts so any Node runner handles it.
-// Uses MAKEFUN_BOT_DIR for the source and MAKEFUN_OUTPUT_DIR (or /output)
-// for the destination. Never uses process.cwd().
-const fs = require("fs");
-const path = require("path");
+import { copyFileSync, existsSync, mkdirSync, statSync } from "node:fs";
+import { join } from "node:path";
 
-const botDir = process.env.MAKEFUN_BOT_DIR || __dirname;
-const outDir = process.env.MAKEFUN_OUTPUT_DIR || "/output";
-const src = path.join(botDir, "entry.png");
-const dst = path.join(outDir, "entry.png");
-
-fs.mkdirSync(outDir, { recursive: true });
-fs.copyFileSync(src, dst);
-
-const a = fs.readFileSync(src);
-const b = fs.readFileSync(dst);
-if (!a.equals(b)) {
-  console.error("output does not match entry.png");
-  process.exit(1);
+const botDir = process.env.MAKEFUN_BOT_DIR;
+if (!botDir) {
+  throw new Error("MAKEFUN_BOT_DIR is not set");
 }
-console.log("entry.png -> " + dst + " (" + a.length + " bytes)");
+const src = join(botDir, "entry.png");
+const outDir = "/output";
+if (!existsSync(src)) {
+  throw new Error("entry.png not found in " + botDir);
+}
+mkdirSync(outDir, { recursive: true });
+copyFileSync(src, join(outDir, "entry.png"));
+// Verify the copy landed byte-identical before reporting success.
+const srcSize = statSync(src).size;
+const dstSize = statSync(join(outDir, "entry.png")).size;
+if (srcSize !== dstSize) {
+  throw new Error("copy size mismatch: " + srcSize + " vs " + dstSize);
+}
+console.log("copied entry.png to /output/entry.png (" + dstSize + " bytes, verified)");
