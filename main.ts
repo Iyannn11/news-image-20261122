@@ -1,15 +1,23 @@
-// News 22 R4 entrypoint: copy the rendered broadsheet to the output dir.
-// The image lives next to this file in the repository; resolve it from the
-// bot directory (or this file's own directory), never from process.cwd(),
-// so the run works no matter which directory the grader starts it in.
-import { copyFileSync, mkdirSync } from "node:fs";
-import { dirname, join } from "node:path";
-import { fileURLToPath } from "node:url";
+// main.ts — entrypoint for the News 22 broadsheet entry.
+// Copies entry.png (rendered by render.py) into the output directory.
+// Written as plain JavaScript inside .ts so any Node runner handles it.
+// Uses MAKEFUN_BOT_DIR for the source and MAKEFUN_OUTPUT_DIR (or /output)
+// for the destination. Never uses process.cwd().
+const fs = require("fs");
+const path = require("path");
 
-const botDir =
-  process.env.MAKEFUN_BOT_DIR ?? dirname(fileURLToPath(import.meta.url));
-const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
+const botDir = process.env.MAKEFUN_BOT_DIR || __dirname;
+const outDir = process.env.MAKEFUN_OUTPUT_DIR || "/output";
+const src = path.join(botDir, "entry.png");
+const dst = path.join(outDir, "entry.png");
 
-mkdirSync(outDir, { recursive: true });
-copyFileSync(join(botDir, "entry.png"), join(outDir, "entry.png"));
-console.log(`wrote ${join(outDir, "entry.png")}`);
+fs.mkdirSync(outDir, { recursive: true });
+fs.copyFileSync(src, dst);
+
+const a = fs.readFileSync(src);
+const b = fs.readFileSync(dst);
+if (!a.equals(b)) {
+  console.error("output does not match entry.png");
+  process.exit(1);
+}
+console.log("entry.png -> " + dst + " (" + a.length + " bytes)");

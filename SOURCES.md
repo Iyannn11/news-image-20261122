@@ -1,12 +1,12 @@
-# SOURCES — The World in One Day, Sunday 22 November 2026 (Round 4)
+# SOURCES — The World in One Day, Sunday 22 November 2026 (Round 5)
 
 35 verified stories, 7 regions. Every story below happened, or was first
-reported, on **Sunday 22 November 2026** (in any time zone — the competition's
-date rule). Two items are the day's scheduled events, framed as such on the
-image: the Pope's noon Angelus and the SpaceX NROL-136 launch (due 12:16 UTC).
-The Top 1's two date errors are NOT counted as 22 Nov stories: the Wall
-Street correction was Friday 20 Nov, and the Texas execution was Thursday
-19 Nov.
+reported, on **Sunday 22 November 2026** (in any time zone — the
+competition's date rule). Two items are the day's scheduled events, framed
+as such on the image: the Pope's noon Angelus and the SpaceX NROL-136
+launch (due 12:16 UTC). The Top 1's two date errors are NOT counted as
+22 Nov stories: the Wall Street correction was Friday 20 Nov, and the
+Texas execution was Thursday 19 Nov.
 
 ## Front page — 3 big cards
 
@@ -21,22 +21,17 @@ Street correction was Friday 20 Nov, and the Texas execution was Thursday
 3. **550 MUNITIONS OVERNIGHT (EUROPE, Ukraine)** — Russia fires 496 drones
    and 53 missiles at Ukraine overnight; at least 5 killed, 10 injured;
    a family of four dies in the Lviv region.
-   Source: Ukrinform, 22 Nov 2026 —
-   https://www.ukrinform.net/rubric-ato/4058763-russia-attacks-ukraine-with-550-weapons-overnight-five-killed-10-injured.html
-   (distinct from the 19→20 Nov attack and the 20 Nov Lviv strike).
+   Source: Ukrinform, 22 Nov 2026.
 
 ## Small cards (4–13)
 
 4. **INDIA 720/9 — RECORD IN NZ (ASIA, Wellington)** — India declare on
    720/9, the highest Test total ever in New Zealand (Pant 128, Rahul 136);
    NZ 33/1 at tea on day 4.
-   Source: BBC Sport, 22 Nov 2026 —
-   https://www.bbc.com/sport/cricket/articles/cwyv5d3gqn7o
-   and Reuters, 22 Nov 2026.
+   Source: BBC Sport + Reuters, 22 Nov 2026.
 5. **INDONESIA FACTORY FIRE (ASIA, Cikande)** — 3 dead, 36 missing after a
    fire at the Fonusa Agung Mulia candy factory in Cikande, Serang.
-   Source: Reuters, 22 Nov 2026 —
-   https://www.reuters.com/world/asia-pacific/three-dead-36-missing-after-fire-indonesia-factory-2026-11-22/
+   Source: Reuters, 22 Nov 2026.
 6. **GAZA: STORM FLOODS TENTS (MIDDLE EAST, Deir el-Balah)** — 5 killed,
    four of them children, as a sandbank collapses on tents; storm flooded
    ~70,000 tents since late Friday.
@@ -47,11 +42,10 @@ Street correction was Friday 20 Nov, and the Texas execution was Thursday
 8. **POPE LEO XIV'S SUNDAY (EUROPE, Vatican)** — Noon Angelus, then lunch
    with 1,300 poor people in the Paul VI Hall for the 10th World Day of
    the Poor. (Scheduled Sunday event, on the Vatican calendar for 22 Nov.)
-   Source: Vatican calendar + europesays.com, 22 Nov 2026.
+   Source: Vatican calendar, 22 Nov 2026.
 9. **NEPAL PM ARRIVES IN DELHI (ASIA, New Delhi)** — PM Balendra Shah
    arrives Sunday for a two-day state visit; talks with Modi on 23 Nov.
-   Source: ANI / All India Radio News, 22 Nov 2026 —
-   https://www.newsonair.gov.in/nepal-pm-balendra-shah-arrives-in-new-delhi-on-two-day-state-visit/
+   Source: ANI / All India Radio News, 22 Nov 2026.
 10. **CHINA HITS BACK AT FCC BAN (ASIA, Beijing)** — Commerce ministry
     opposes the FCC vote barring China Mobile / China Telecom / China
     Unicom from direct access to US phone numbers (Reuters 01:57 UTC).
@@ -66,8 +60,7 @@ Street correction was Friday 20 Nov, and the Texas execution was Thursday
 13. **ASHES: HEAD 123 OFF 83 (OCEANIA, Perth)** — Travis Head's 123 off
     83 seals an eight-wicket win inside two days; Australia lead the
     series. Match wrapped up Saturday 22 Nov Perth time.
-    Source: BBC Sport, 22 Nov 2026 —
-    https://www.bbc.com/sport/cricket/articles/crrjvpl6x4xo
+    Source: BBC Sport, 22 Nov 2026.
 
 ## Also on Sunday (14–35)
 
